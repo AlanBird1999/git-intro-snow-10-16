@@ -7,7 +7,8 @@ namespace MyConsoleApp
         // Should return true if input contains the letters wubr and g in any order or capitalization
         public static bool DetectWUBRG(string input)
         {
-            throw new NotImplementedException();
+            input = ConvertToLowerCase(input);
+            return input.Contains('w') && input.Contains('u') && input.Contains('b') && input.Contains('r') && input.Contains('g');
         }
 
         // Calculate the factorial of a given number.
