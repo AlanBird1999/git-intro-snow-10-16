@@ -1,0 +1,14 @@
+/Users/alanbird/git-intro-snow-10-16/bin/Debug/net7.0/GIT-INTRO-SNOW-10-16
+/Users/alanbird/git-intro-snow-10-16/bin/Debug/net7.0/GIT-INTRO-SNOW-10-16.deps.json
+/Users/alanbird/git-intro-snow-10-16/bin/Debug/net7.0/GIT-INTRO-SNOW-10-16.runtimeconfig.json
+/Users/alanbird/git-intro-snow-10-16/bin/Debug/net7.0/GIT-INTRO-SNOW-10-16.dll
+/Users/alanbird/git-intro-snow-10-16/bin/Debug/net7.0/GIT-INTRO-SNOW-10-16.pdb
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.AssemblyInfoInputs.cache
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.AssemblyInfo.cs
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.csproj.CoreCompileInputs.cache
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.dll
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/refint/GIT-INTRO-SNOW-10-16.dll
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.pdb
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/GIT-INTRO-SNOW-10-16.genruntimeconfig.cache
+/Users/alanbird/git-intro-snow-10-16/obj/Debug/net7.0/ref/GIT-INTRO-SNOW-10-16.dll
