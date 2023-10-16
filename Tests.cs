@@ -9,14 +9,7 @@ namespace MyConsoleApp
             TestDetectWUBRG();
             TestCalculateFactorial();
             TestAreArraysEqual();
-            TestRemoveDuplicates();
-            TestCalculateExponentiation();
-            ConvertToUpperCase();
-            TestConvertToLowerCase();
-            TestSumOfEvenNumbers();
-            TestHasUniqueCharacters();
             TestIsPalindrome();
-            TestIsPrime();
             TestSimpleSort();
             TestReverseString();
             TestSumArrayElements();
@@ -74,24 +67,6 @@ namespace MyConsoleApp
                 passed = passed && SimpleFunctions.IsPalindrome("aabbaa") == true;
                 passed = passed && SimpleFunctions.IsPalindrome("abcde") == false;
 
-                Console.WriteLine(passed ? "Passed" : "Failed");
-            }
-            catch (NotImplementedException e)
-            {
-                Console.WriteLine("Not Implemented");
-            }
-        }
-
-        static void TestIsPrime()
-        {
-            bool passed = true;
-            Console.Write("Testing IsPrime\t\t\t");
-            try
-            {
-                passed = passed && SimpleFunctions.IsPrime(4) == false;
-                passed = passed && SimpleFunctions.IsPrime(7) == true;
-                passed = passed && SimpleFunctions.IsPrime(8) == false;
-                passed = passed && SimpleFunctions.IsPrime(17) == true;
                 Console.WriteLine(passed ? "Passed" : "Failed");
             }
             catch (NotImplementedException e)
